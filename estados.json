@@ -117,7 +117,6 @@
 	"pupulacao" : 11210000
 },
      {
-	"ID": "24",
 	"Sigla": "SC",
 	"Nome": "Santa Catarina",
 	"pupulacao" : 6727000
@@ -128,13 +127,11 @@
 	"pupulacao" : 2220000
 },
      {
-	"ID": "26",
 	"Sigla": "SP",
 	"Nome": "São Paulo",
 	"pupulacao" : 44040000
 },
      {
-	"ID": "27",
 	"Sigla": "TO",
 	"Nome": "Tocantins",
 	"pupulacao" : 1497000
