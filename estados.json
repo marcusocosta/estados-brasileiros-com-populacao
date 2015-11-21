@@ -1,0 +1,141 @@
+[{
+	"Sigla": "AC",
+	"Nome": "Acre",
+	"pupulacao": 790101
+},
+     {
+
+	"Sigla": "AL",
+	"Nome": "Alagoas",
+	"pupulacao" : 3322000
+},
+     {
+	"Sigla": "AM",
+	"Nome": "Amazonas",
+	"pupulacao" : 3874000
+},
+     {
+	"Sigla": "AP",
+	"Nome": "Amapá",
+	"pupulacao": 751000
+},
+     {
+	"Sigla": "BA",
+	"Nome": "Bahia",
+	"pupulacao": 15130000
+},
+     {
+	"Sigla": "CE",
+	"Nome": "Ceará",
+	"pupulacao": 8843000
+},
+     {
+	"Sigla": "DF",
+	"Nome": "Distrito Federal",
+	"pupulacao": 2852000
+},
+     {
+	"Sigla": "ES",
+	"Nome": "Espírito Santo",
+	"pupulacao": 3885000
+},
+     {
+	"Sigla": "GO",
+	"Nome": "Goiás",
+	"pupulacao": 6523000
+},
+     {
+	"Sigla": "MA",
+	"Nome": "Maranhão",
+	"pupulacao": 6851000
+},
+     {
+	"Sigla": "MG",
+	"Nome": "Minas Gerais",
+	"pupulacao": 20730000
+},
+     {
+	"Sigla": "MS",
+	"Nome": "Mato Grosso do Sul",
+"pupulacao": 2620000
+
+},
+     {
+	"Sigla": "MT",
+	"Nome": "Mato Grosso",
+	"pupulacao" : 3224000
+},
+     {
+	"Sigla": "PA",
+	"Nome": "Pará",
+	"pupulacao" : 8074000
+},
+     {
+	"Sigla": "PB",
+	"Nome": "Paraíba",
+	"pupulacao" : 3944000
+},
+     {
+	"ID": "16",
+	"Sigla": "PE",
+	"Nome": "Pernambuco",
+	"pupulacao" : 9278000
+},
+     {
+	"Sigla": "PI",
+	"Nome": "Piauí",
+	"pupulacao" : 3195000
+},
+     {
+	"Sigla": "PR",
+	"Nome": "Paraná",
+	"pupulacao" : 11080000
+},
+     {
+	"Sigla": "RJ",
+	"Nome": "Rio de Janeiro",
+	"pupulacao" : 16460000
+},
+     {
+	"Sigla": "RN",
+	"Nome": "Rio Grande do Norte",
+	"pupulacao" : 3409000
+},
+     {
+	"Sigla": "RO",
+	"Nome": "Rondônia",
+	"pupulacao" : 1749000
+},
+     {
+	"Sigla": "RR",
+	"Nome": "Roraima",
+	"pupulacao" : 496936
+},
+     {
+	"Sigla": "RS",
+	"Nome": "Rio Grande do Sul",
+	"pupulacao" : 11210000
+},
+     {
+	"ID": "24",
+	"Sigla": "SC",
+	"Nome": "Santa Catarina",
+	"pupulacao" : 6727000
+},
+     {
+	"Sigla": "SE",
+	"Nome": "Sergipe",
+	"pupulacao" : 2220000
+},
+     {
+	"ID": "26",
+	"Sigla": "SP",
+	"Nome": "São Paulo",
+	"pupulacao" : 44040000
+},
+     {
+	"ID": "27",
+	"Sigla": "TO",
+	"Nome": "Tocantins",
+	"pupulacao" : 1497000
+}]
